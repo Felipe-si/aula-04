@@ -71,6 +71,28 @@ nav .opcao {
     color: rgb(66, 66, 255)
 }
 
+.formulario {
+    text-align: center;
+}
+
+.inputs {
+    margin: 20px;
+    display: flex;
+}
+
+input {
+    margin: 0px 5px;
+    padding: 10px 5px;
+    width: 100%;
+}
+
+textarea {
+    margin: 0px 5px;
+    padding: 10px 5px;
+    min-width: 700px;
+    min-height: 300px;
+}
+
 @media(max-width: 600px) {
     .corpo {
         display: block;
