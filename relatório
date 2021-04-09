@@ -1,0 +1,10 @@
+O site de notícias foi contruido usando as linguagens html, css e javascript. Ele é composto de 2 páginas de noticias
+nas categorias: política e covid, além de uma página para contato.
+
+Felipe - Fez a estrutura da pagina de noticias.
+Railane - Fez a funcionalidade do javascript, a página do formulário de contato e correções de css.
+Leonarda - Pesquisou e adicionou as imagens. Também fez os ajustes finais no html.
+Jaylane Oliveira - Pesquisou as noticias, ajudou na estrutura inicial do site e escreveu o relatório.
+
+Os problemas encontrados foram em relação a funcionalidade dinâmica com javascript para ocultar e mostrar a imagem.
+Nessa etapa, tivemos que assistir tutoriais para revisar o que foi explicado na aula e o código em javascript funcionar.
