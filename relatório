@@ -1,5 +1,6 @@
 O site de notícias foi contruido usando as linguagens html, css e javascript. Ele é composto de 2 páginas de noticias
 nas categorias: política e covid, além de uma página para contato.
+https://felipe-si.github.io/site-de-noticias
 
 Felipe - Fez a estrutura da pagina de noticias.
 Railane - Fez a funcionalidade do javascript, a página do formulário de contato e correções de css.
